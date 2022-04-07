@@ -7,15 +7,7 @@
 - 👯 I’m looking to collaborate on React and Hugo based projects
 - 📫 How to reach me: reachtoraunak@gmail.com
 
-## Languages 🌟
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunaktr&theme=tokyonight)](https://github.com/raunaktr/github-readme-stats)
 
- * React
- * NextJS
- * Hugo
- * Docker
-  <br />
- 
 ## Github Status 🏆
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunaktr&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github-readme-stats.vercel.app/)
@@ -24,6 +16,15 @@
 
 ![raunaktr's github graph](https://activity-graph.herokuapp.com/graph?username=raunaktr&bg_color=1a1b26&color=c0caf5&line=545c7e&point=73daca&area=true&hide_border=true)
 <br/>
+
+## Languages 🌟
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunaktr&theme=tokyonight)](https://github.com/raunaktr/github-readme-stats)
+
+ * React, NextJs
+ * NodeJS, MongoDB
+ * Hugo, Bootstrap, tailwindCSS
+ * Azure, Firebase, Docker
+  <br />
 
 <p align="center">Get In Touch 📝</p>
 <p align="center">
