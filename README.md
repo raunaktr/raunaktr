@@ -25,6 +25,7 @@
  * Hugo, Bootstrap, tailwindCSS
  * Azure, Firebase, Docker
   <br />
+  I use Arch btw, <a href="https://github.com/raunaktr/dotfiles">Link to dotfiles</a>
 
 <p align="center">Get In Touch 📝</p>
 <p align="center">
@@ -41,3 +42,4 @@
 
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=raunaktr.raunaktr" alt="Raunaktr :: Visitor's Count" /></p>
+
