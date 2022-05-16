@@ -2,7 +2,7 @@
 
 ## Who Am I?
 
-- 🤓 Self taught Developer 
+- 🤓 Web Developer 
 - 🌱 I’m currently learning Three.JS and WebGL.
 - 👯 I’m looking to collaborate on React, NextJS and Hugo projects
 - 📫 How to reach me: reachtoraunak@gmail.com
